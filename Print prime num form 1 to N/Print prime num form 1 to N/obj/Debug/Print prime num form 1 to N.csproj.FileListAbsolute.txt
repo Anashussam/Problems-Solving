@@ -1,0 +1,7 @@
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\bin\Debug\Print prime num form 1 to N.exe.config
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\bin\Debug\Print prime num form 1 to N.exe
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\bin\Debug\Print prime num form 1 to N.pdb
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\obj\Debug\Print prime num form 1 to N.csproj.AssemblyReference.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\obj\Debug\Print prime num form 1 to N.csproj.CoreCompileInputs.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\obj\Debug\Print prime num form 1 to N.exe
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print prime num form 1 to N\Print prime num form 1 to N\obj\Debug\Print prime num form 1 to N.pdb
