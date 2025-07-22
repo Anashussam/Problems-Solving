@@ -1,0 +1,15 @@
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\bin\Debug\net8.0\Print Digits in a Reversed Order.exe
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\bin\Debug\net8.0\Print Digits in a Reversed Order.deps.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\bin\Debug\net8.0\Print Digits in a Reversed Order.runtimeconfig.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\bin\Debug\net8.0\Print Digits in a Reversed Order.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\bin\Debug\net8.0\Print Digits in a Reversed Order.pdb
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.AssemblyInfoInputs.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.AssemblyInfo.cs
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.sourcelink.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\refint\Print Digits in a Reversed Order.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.pdb
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\Print Digits in a Reversed Order.genruntimeconfig.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Print Digits in a Reversed Order\obj\Debug\net8.0\ref\Print Digits in a Reversed Order.dll

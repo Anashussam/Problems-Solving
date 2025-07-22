@@ -1,0 +1,15 @@
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\bin\Debug\net8.0\Perfect Number From 1 to N.exe
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\bin\Debug\net8.0\Perfect Number From 1 to N.deps.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\bin\Debug\net8.0\Perfect Number From 1 to N.runtimeconfig.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\bin\Debug\net8.0\Perfect Number From 1 to N.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\bin\Debug\net8.0\Perfect Number From 1 to N.pdb
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.AssemblyInfoInputs.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.AssemblyInfo.cs
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.csproj.CoreCompileInputs.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.sourcelink.json
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\refint\Perfect Number From 1 to N.dll
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.pdb
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\Perfect Number From 1 to N.genruntimeconfig.cache
+C:\Users\Anas Qadora\Desktop\Problem Solving\Perfect Number From 1 to N\obj\Debug\net8.0\ref\Perfect Number From 1 to N.dll

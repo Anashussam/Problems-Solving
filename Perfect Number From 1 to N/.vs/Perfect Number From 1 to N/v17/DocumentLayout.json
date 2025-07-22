@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anas Qadora\\Desktop\\Problem Solving\\Perfect Number From 1 to N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7821E021-8E6C-4653-9927-34815CAC5933}|Perfect Number From 1 to N.csproj|c:\\users\\anas qadora\\desktop\\problem solving\\perfect number from 1 to n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7821E021-8E6C-4653-9927-34815CAC5933}|Perfect Number From 1 to N.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anas Qadora\\Desktop\\Problem Solving\\Perfect Number From 1 to N\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anas Qadora\\Desktop\\Problem Solving\\Perfect Number From 1 to N\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:45:08.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
